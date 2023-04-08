@@ -147,7 +147,7 @@ export default {
         "system": "Cascade Line",
         "gate": "NONE",
         "City": "Nov Elysia",
-        "headerTitle": "???",
+        "headerTitle": "UNION Mech Forces",
         "headerSubtitle": "???? Company",
         "subheaderTitle": "Diplomatic Mission",
         "subheaderSubtitle": "Golf-Delta",
