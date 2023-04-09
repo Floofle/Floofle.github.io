@@ -6,3 +6,5 @@ Her newfound friend/brain-roommate, Azadî, is shy around the outwardly friendly
 - Tired, lanky, unassuming
 
 ## Trivia
+- what is a money 
+- just here so she doesn't get fined
